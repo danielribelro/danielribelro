@@ -13,10 +13,3 @@ Olá! Sou desenvolvedor Full Stack com forte inclinação para o desenvolvimento
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=cs,dotnet,java,python,js,vue,react,html,css,mysql,mongodb,docker,git,github)](https://skillicons.dev)
 ---
-
-## 📬 Vamos nos conectar?
-
-Se quiser trocar uma ideia sobre tecnologia, desenvolvimento ou oportunidades de projetos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/danielribeirodev/))
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsribelro.contato@gmail.com)
