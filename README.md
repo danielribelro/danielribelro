@@ -1,15 +1,14 @@
-Olá! Sou desenvolvedor Full Stack com forte inclinação para o desenvolvimento backend e arquitetura de sistemas. Atualmente, estou expandindo meus conhecimentos acadêmicos e práticos para criar soluções escaláveis, seguras e eficientes.
+Olá! Sou desenvolvedor **Front-end** focado em criar aplicações web modernas, responsivas e centradas na experiência do usuário. Atualmente, estou expandindo meus conhecimentos acadêmicos e práticos para entregar interfaces fluidas, dinâmicas e de alta performance.
 
 ## 🚀 Sobre Mim
 
-* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS), com foco em arquitetura de software e segurança da informação.
-* 💻 **Atuação:** Desenvolvimento Full Stack, focado no ecossistema backend com **Java, C# (.NET) e Python**, aliado à criação de interfaces modernas e responsivas.
-* 🛠️ **Práticas:** Aplicação de padrões de projeto (Design Patterns), metodologias ágeis e boas práticas de desenvolvimento (Clean Code).
-* ⚙️ **Experiência em:** Desenvolvimento de APIs RESTful, integração de sistemas e modelagem/gerenciamento de bancos de dados (SQL e NoSQL).
+* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS), com base sólida em tecnologia e cibersegurança.
+* 💻 **Atuação:** Desenvolvimento Front-end, focado em ecossistemas web modernos com **Vue.js, React e TypeScript**.
+* 🛠️ **Práticas:** Componentização inteligente, design responsivo (Mobile First), metodologias ágeis e boas práticas de desenvolvimento (Clean Code).
+* ⚙️ **Experiência em:** Criação de interfaces dinâmicas, consumo de APIs RESTful, gerenciamento de estado no cliente e otimização de usabilidade.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,dotnet,java,python,js,vue,react,html,css,mysql,mongodb,docker,git,github)](https://skillicons.dev)
----
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,vue,react,html,css,tailwind,git,github,vscode)](https://skillicons.dev)
